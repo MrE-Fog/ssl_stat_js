@@ -7,7 +7,7 @@ Install Dependency (Ubuntu)
 ===========================
 ::
 
-    apt install libcurl4-openssl-dev
+    apt install libcurl3 libcurl-openssl1.0-dev
 
 Installing Through npm
 ======================
