@@ -3,8 +3,8 @@ ssl_stat_js
 
 Node.js C++ Language Extension To Get SSL Certificate Information From URL
 
-Install Dependency (Ubuntu)
-===========================
+Install Dependencies (Ubuntu)
+=============================
 ::
 
     apt install libcurl3 libcurl-openssl1.0-dev
