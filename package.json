@@ -1,0 +1,27 @@
+{
+  "name": "ssl_stat",
+  "version": "1.0.0",
+  "description": "Node.js C Language Extension To Get SSL Certificate Information From URL",
+  "main": "./lib/ssl_stat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/six519/ssl_stat_js"
+  },
+  "keywords": [
+    "ssl",
+    "info",
+    "curl",
+    "c++"
+  ],
+  "author": "Ferdinand E. Silva",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/six519/ssl_stat_js/issues"
+  },
+  "homepage": "https://github.com/six519/ssl_stat_js"
+}
